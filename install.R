@@ -1,5 +1,5 @@
 install.packages("tm")
-install.packages("tidyverse")
+install.packages("dplyr")
 install.packages("rtweet")
 install.packages("stringr")
 install.packages("wordcloud")
