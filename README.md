@@ -6,3 +6,6 @@ Resources to add:
 * list of resources for topics discussed
 * binder button
 * powerpoint
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/TNT-Lab/SIOP-2019-IO-Data-Science-Master-Tutorial.git/master
