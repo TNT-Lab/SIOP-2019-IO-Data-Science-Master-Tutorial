@@ -1,0 +1,17 @@
+# SIOP 2019 IO Data Science Master Tutorial Additional Resources
+
+### Data Sourcing
+#### Trace Data & Data Streams
+
+#### Large Public and Organization Datasets
+
+#### Web scraping and APIs
+
+### Analytic Techniques
+
+#### Natural Language Processing
+
+#### Machine Learning
+
+
+### Cloud and Computing Resources
