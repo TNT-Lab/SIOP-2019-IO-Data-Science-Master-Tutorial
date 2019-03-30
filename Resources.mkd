@@ -4,6 +4,8 @@
 
 * Data Science and R: http://datascience.tntlab.org/
 * Web Scraping: http://rlanders.net/scrapy/
+* Natural Language Processing: https://github.com/andreakropp/SIOP2017-NLPTutorial
+* Reproducible Research Tools: https://github.com/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git
 
 Resources from SIOP's TIP (quick introductions created for an IO audience)
 * A crash course in machine learning: http://www.siop.org/tip/jan17/crash.aspx
@@ -14,10 +16,6 @@ Resources from SIOP's TIP (quick introductions created for an IO audience)
 * A crash course on the internet: http://www.siop.org/tip/july17/crash.aspx
 * A crash course in Natural Language Processing: http://www.siop.org/tip/april17/crash.aspx
 * A crash course in Data Visualization: http://www.siop.org/tip/oct16/crash.aspx
-
-Natural Language Processing: https://github.com/andreakropp/SIOP2017-NLPTutorial
-
-Reproducible Research Tools: https://github.com/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git
 
 
 ### Readings and Materials:
