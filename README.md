@@ -1,6 +1,6 @@
 # SIOP-2019-Leveraging-Data-Science-Master-Tutorial
 
-### To view and interact with the resources, click on this binder button:
+### To view and interact with the demo Jupyter Notebook, click on this binder button:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TNT-Lab/SIOP-2019-IO-Data-Science-Master-Tutorial.git/master)
 
 This is a repository of materials associated with the SIOP 2019 Master Tutorial Leveraging Data Science to Facilitate Insightful, Reproducible, and Trustworthy I-O.
