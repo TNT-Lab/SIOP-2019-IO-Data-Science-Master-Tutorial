@@ -24,7 +24,7 @@ for insightful, reproducible, and trustworthy social science. In R. N. Landers (
 Handbook of Technology and Employee Behavior (pp. 761-789). New York, NY: Cambridge
 University Press.
 
-**Intro to Webscraping in Psychology: **
+**Intro to Webscraping in Psychology:**
 
 Landers, R. N., Brusso, R. C., Cavanaugh, K. J., & Collmus, A. B. (2016). A primer on theory-driven web scraping: Automatic extraction of big data from the Internet for use in psychological research. Psychological methods, 21(4), 475.
 
