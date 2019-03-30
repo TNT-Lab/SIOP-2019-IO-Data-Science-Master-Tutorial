@@ -34,3 +34,7 @@ Description: Files needed to build a binder (binder button is at the top of this
 Tutorial Citation:
 
 Auer, E. M., Collmus, A. B., Marin, S., Callan, R. C., & Landers, R. N. (2019, April). Leveraging data science to facilitate insightful, reproducible, and trustworthy I-O. Master tutorial presented at the 34th Annual Conference of the Society for Industrial and Organizational Psychology, National Harbor, MD. 
+
+## Contact Information
+If you have questions about the materials in this repository or permissions to use materials please contact Elena Auer (auer0027@umn.edu).
+
