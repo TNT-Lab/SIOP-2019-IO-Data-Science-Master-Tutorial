@@ -1,4 +1,4 @@
-# Data Science in IO List of Resources
+# Data Science in IO List of Resources (updated April 2019)
 
 ### Online Tutorials:
 
@@ -14,6 +14,11 @@ Resources from SIOP's TIP (quick introductions created for an IO audience)
 * A crash course on the internet: http://www.siop.org/tip/july17/crash.aspx
 * A crash course in Natural Language Processing: http://www.siop.org/tip/april17/crash.aspx
 * A crash course in Data Visualization: http://www.siop.org/tip/oct16/crash.aspx
+
+Natural Language Processing: https://github.com/andreakropp/SIOP2017-NLPTutorial
+
+Reproducible Research Tools: https://github.com/eauer22/SIOP-2019-Master-Tutorial-Creating-Reproducible-and-Interactive-Analyses-with-JupyterLab-and-Binder-.git
+
 
 ### Readings and Materials:
 
@@ -46,5 +51,4 @@ Tonidandel, S., King, E. B., & Cortina, J. M. (Eds.). (2015). Big data at work: 
 Guzzo, R. A., Fink, A. A., King, E., Tonidandel, S., & Landis, R. S. (2015). Big data recommendations for industrial–organizational psychology. Industrial and Organizational Psychology, 8(4), 491-508.
 
 Tonidandel, Scott, Eden B. King, and Jose M. Cortina. "Big data methods: Leveraging modern data analytic techniques to build organizational science." Organizational Research Methods 21, no. 3 (2018): 525-547.
-
 
