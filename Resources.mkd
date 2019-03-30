@@ -1,17 +1,31 @@
 # SIOP 2019 IO Data Science Master Tutorial Additional Resources
 
-### Data Sourcing
-#### Trace Data & Data Streams
+Online Tutorials:
 
-#### Large Public and Organization Datasets
+* Data Science and R: http://datascience.tntlab.org/
+* Web Scraping: http://rlanders.net/scrapy/
 
-#### Web scraping and APIs
+Resources from SIOP's TIP (quick introductions created for an IO audience)
+* A crash course in machine learning: http://www.siop.org/tip/jan17/crash.aspx
+* A crash course in R: http://www.siop.org/tip/july16/crash.aspx
+* A crash course in Block Chain: http://my.siop.org/tip/jan18/editor/ArtMID/13745/ArticleID/322/Crash-Course-in-I-O-Technology-A-Crash-Course-in-Blockchain
+* A crash course in Web apps and R Shiny: http://my.siop.org/tip/jan18/editor/ArtMID/13745/ArticleID/235/Crash-Course-in-I-O-Technology-A-Crash-Course-in-Web-Applications-and-Shiny
+* A crash course in webscraping and APIs: http://my.siop.org/tip/jan18/editor/ArtMID/13745/ArticleID/108/Crash-Course-in-I-O-Technology-A-Crash-Course-in-Web-Scraping-and-APIs
+* A crash course on the internet: http://www.siop.org/tip/july17/crash.aspx
+* A crash course in Natural Language Processing: http://www.siop.org/tip/april17/crash.aspx
+* A crash course in Data Visualization: http://www.siop.org/tip/oct16/crash.aspx
 
-### Analytic Techniques
+Readings and Materials:
 
-#### Natural Language Processing
+Overview of Data Science:
+Landers, R. N., Auer, E. M., Collmus, A. B., & Marin, S. (2019). Data science as a new foundation
+for insightful, reproducible, and trustworthy social science. In R. N. Landers (Ed.), Cambridge
+Handbook of Technology and Employee Behavior (pp. 761-789). New York, NY: Cambridge
+University Press.
 
-#### Machine Learning
+Intro to Webscraping in Psychology: 
+Landers, R. N., Brusso, R. C., Cavanaugh, K. J., & Collmus, A. B. (2016). A primer on theory-driven web scraping: Automatic extraction of big data from the Internet for use in psychological research. Psychological methods, 21(4), 475.
 
+Intro to Machine Learning in IO:
+Putka, D. J., Beatty, A. S., & Reeder, M. C. (2018). Modern prediction methods: New perspectives on a common problem. Organizational Research Methods, 21(3), 689-732.
 
-### Cloud and Computing Resources
