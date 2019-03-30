@@ -1,6 +1,6 @@
-# SIOP 2019 IO Data Science Master Tutorial Additional Resources
+# Data Science in IO List of Resources
 
-Online Tutorials:
+### Online Tutorials:
 
 * Data Science and R: http://datascience.tntlab.org/
 * Web Scraping: http://rlanders.net/scrapy/
@@ -15,17 +15,36 @@ Resources from SIOP's TIP (quick introductions created for an IO audience)
 * A crash course in Natural Language Processing: http://www.siop.org/tip/april17/crash.aspx
 * A crash course in Data Visualization: http://www.siop.org/tip/oct16/crash.aspx
 
-Readings and Materials:
+### Readings and Materials:
 
-Overview of Data Science:
+**Overview of Data Science:**
+
 Landers, R. N., Auer, E. M., Collmus, A. B., & Marin, S. (2019). Data science as a new foundation
 for insightful, reproducible, and trustworthy social science. In R. N. Landers (Ed.), Cambridge
 Handbook of Technology and Employee Behavior (pp. 761-789). New York, NY: Cambridge
 University Press.
 
-Intro to Webscraping in Psychology: 
+**Intro to Webscraping in Psychology: **
+
 Landers, R. N., Brusso, R. C., Cavanaugh, K. J., & Collmus, A. B. (2016). A primer on theory-driven web scraping: Automatic extraction of big data from the Internet for use in psychological research. Psychological methods, 21(4), 475.
 
-Intro to Machine Learning in IO:
+**Intro to Machine Learning and AI in IO:**
+
 Putka, D. J., Beatty, A. S., & Reeder, M. C. (2018). Modern prediction methods: New perspectives on a common problem. Organizational Research Methods, 21(3), 689-732.
+
+Barney, M. (2019). The Reciprocal Roles of Artificial Intelligence and Industrial-Organizational Psychology. In R. Landers (Ed.), The Cambridge Handbook of Technology and Employee Behavior (Cambridge Handbooks in Psychology, pp. 38-56). Cambridge: Cambridge University Press. doi:10.1017/9781108649636.004
+
+Translation of Machine Learning words into Human Language:
+http://neoacademic.com/2017/12/07/translating-machine-learning-terms-into-social-science-words/
+
+**Big Data in IO:**
+
+Landers, R. N., Fink, A. & Collmus, A. B. (in press). Using big data to enhance staffing: Vast untapped resources or tempting honeypot? In J. L. Farr & N. T. Tippins (Eds.), Handbook of Employee Selection. New York, NY: Routledge.
+
+Tonidandel, S., King, E. B., & Cortina, J. M. (Eds.). (2015). Big data at work: The data science revolution and organizational psychology. Routledge.
+
+Guzzo, R. A., Fink, A. A., King, E., Tonidandel, S., & Landis, R. S. (2015). Big data recommendations for industrial–organizational psychology. Industrial and Organizational Psychology, 8(4), 491-508.
+
+Tonidandel, Scott, Eden B. King, and Jose M. Cortina. "Big data methods: Leveraging modern data analytic techniques to build organizational science." Organizational Research Methods 21, no. 3 (2018): 525-547.
+
 
